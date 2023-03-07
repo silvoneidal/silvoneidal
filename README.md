@@ -13,7 +13,8 @@ Técnico da DALÇÓQUIO AUTOMAÇÃO
   <br>
   &nbsp;&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" />             
   &nbsp;&nbsp;&nbsp;<img width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />   
-  &nbsp;&nbsp;&nbsp;<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />          
+  &nbsp;&nbsp;&nbsp;<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />   
+  &nbsp;&nbsp;&nbsp;<img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />          
 </div>
 
 ##
