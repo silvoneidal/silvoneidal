@@ -1,7 +1,7 @@
 ##
 
 ### Olá, meu nome é Silvonei
-Técnico da DALÇÓQUIO AUTOMAÇÃO
+Reponsável Técnico da DALÇÓQUIO AUTOMAÇÃO
 
 - **Projetos** de circuitos e placas eletrônica.
 
